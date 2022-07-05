@@ -50,7 +50,7 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.https://github.com/rocketseat-education/semana-omnistack-10/blob/master/.github/DevRadar.sketch?raw=true).
+Você pode baixar o layout do projeto no formato `.sketch` através [desse link](https://github.com/rocketseat-education/semana-omnistack-10/blob/master/.github/DevRadar.sketch?raw=true).
 
 Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
 
