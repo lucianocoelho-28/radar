@@ -1,7 +1,2 @@
 # dependencies
 backend/node_modules
-backend/package.json
-backend/yarn.lock
-web/.gitignore
-web/package.json
-web/yarn.lock
